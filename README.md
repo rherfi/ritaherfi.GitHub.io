@@ -6,7 +6,7 @@
     <h2>This is a website for BDA 594. <br> <br></h2>
    <p style="background-color:LightGray;"> 
     #Data set that I found interest in: 
-<a href="url">[https://github.com/datasets/covid-19 </a>
+<a href="url">https://github.com/datasets/covid-19 </a>
 <br> <br>
     This data set focuses on COVID-19. It includes the confirmed cases, recorded deaths, and recoveries. It was created 4 years ago and continues to be updated daily to be able to track any current or potential spikes. The source comes from Johns Hopkins University Center for Systems Science and Engineering. They take information both nationally and worldwide to create patterns about the data that comes about from these sources. <br> <br>  
 
