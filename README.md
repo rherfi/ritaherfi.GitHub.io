@@ -4,7 +4,7 @@
 </h1>
   <body>
     <h2>This is a website for BDA 594. <br> <br></h2>
-   <p style="background-color:LghtGray;"> 
+   <p style="background-color:LightGray;"> 
     #Data set that I found interest in: 
 <a href="url">[https://github.com/datasets/covid-19 </a>
 <br> <br>
